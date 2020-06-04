@@ -1,0 +1,67 @@
+body{
+    background-color: #594A7C;
+    background-image: url("../images/bg-desktop.svg");
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    margin: 50px;
+    }
+
+h1{
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    font-size: 2.5rem;
+}
+
+p{
+    line-height: 1.5;
+    margin-bottom: 3rem;
+}
+
+.attribution { 
+    font-size: 11px;
+    text-align: center;
+    }
+
+.attribution a {
+    color: yellow; 
+}
+
+.btn{
+    color: #594A7C;
+    background-color: white;
+    padding: 20px 100px;
+    border-radius: 50px;
+    text-decoration: none;
+}
+
+.Columna1{
+    width: 50%;
+    display: inline-block;
+}
+
+.Columna2{
+    width: 35%;
+    display: inline-block;  
+    margin-left: 50px;
+    margin-top: 20px;
+    position: absolute;
+}
+
+.illustration{
+    width: 100%;
+}
+    
+.logo{
+    height: 3rem;
+    margin: 3rem 0;
+}
+
+.social{
+    text-align: right;
+    margin: 0px 5rem;
+}
+
+.social-logo{
+    height: 3rem;
+    margin: 0 0.5rem;
+}
